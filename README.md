@@ -92,7 +92,7 @@ Pour mettre en place une copie locale et la faire fonctionner, suivez les étape
 
 Mohamed Elmdimegh - mohamed.elmdimegh@universite-paris-saclay.fr
 
-Project Link: [https://github.com/Meyflex/Desert](https://github.com/Meyflex/Desert)
+Project Link: [https://github.com/Meyflex/Reseau-de-jeu-video](https://github.com/Meyflex/Reseau-de-jeu-video)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
