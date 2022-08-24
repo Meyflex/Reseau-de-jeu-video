@@ -34,7 +34,7 @@ relation afin de prendre part `a des parties multijoueurs.
 ## Un apercu global du projet
 
 
-* Ce project est fait afin  de s'ameliorer et maitriser le Html CSS, c est un site de 3 page HTML ou on trouve 2 pages d'information et une boutique des vetements des maillots de la coupe du monde 2022
+* Ce project est fait afin  de s'ameliorer et maitriser le langage java et le backend des applications.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
